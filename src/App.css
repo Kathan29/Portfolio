@@ -1,0 +1,53 @@
+.App{
+    background-color: rgb(246, 238, 227);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#img1
+{
+    width:450px;
+    height:600px;
+    margin-left:250px;
+    margin-top: 80px;
+    border-radius: 12px;
+}
+/* div.inline{
+    float: left;
+} */
+#name{
+    margin-top: 200px;
+    margin-left: 200px;
+    height: 250px;
+    margin-right: 80px;
+}
+
+.home{
+    display: flex;   
+}
+
+.contact{
+    position: relative;
+    /* margin-top: 250px; */
+    width: 50%;
+    margin: 100px auto;
+    padding: 60px ;
+}
+
+
+#skills
+{
+    width: 400px;
+    /* margin-inline: 20px; */
+    position: relative;
+    margin-top: -180px;
+    margin-left: 870px;
+
+}
+
+.contactpage{
+    display: flex;
+}
+.enquiry
+{
+    margin: 150px ;
+    margin-left: 10px;
+}
